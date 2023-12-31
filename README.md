@@ -8,6 +8,7 @@
 <img src='https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg' alt='github' height='40'>
 <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg' alt='github' height='40'>
 <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg' alt='github' height='40'>
+<img src='https://cdn-icons-png.flaticon.com/128/5968/5968381.png' alt='github' height='40'>
 
 
 # Connect with me:
